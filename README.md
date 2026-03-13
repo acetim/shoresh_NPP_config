@@ -1,2 +1,3 @@
 # shoresh_NPP_config
-a language config for shoresh in npp
+-download the xml and import it as a user defined language in npp
+-make sure you enable rtl 
